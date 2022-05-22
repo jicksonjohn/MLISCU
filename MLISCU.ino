@@ -251,11 +251,11 @@ void voltage_level(int x)
  }
 void loop() {
   int i ;
-  //char d = "7"; //debug
   // put your main code here, to run repeatedly:
   // led_inbuild on
   digitalWrite(led,HIGH);
  /* // debug purpose
+  // char d = "7"; //debug
  while(1)
   {
   for(i=-8;i<=8;i++)
@@ -281,7 +281,6 @@ void loop() {
         voltage_level(i);
         delayMicroseconds(580);
        // delay(10);
-      }
-     
+      }  
   } //*/ 
 }
