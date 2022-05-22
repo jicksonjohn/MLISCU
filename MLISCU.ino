@@ -1,5 +1,5 @@
 /*
- * jickson john 
+ * AUTHOR : JICKSON JOHN
  * scu based MLI , teensy 4.1 - 600mhz
  * arduino ide  ,compiler optimisation as fastest
  * 1V on H-M
